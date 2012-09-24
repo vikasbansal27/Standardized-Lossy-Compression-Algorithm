@@ -19,3 +19,4 @@ This coding scheme starts with transforming input data with Modified Discrete Co
                   
                   
                   ii) Generating Huffman tree using probabilities.
+                  
