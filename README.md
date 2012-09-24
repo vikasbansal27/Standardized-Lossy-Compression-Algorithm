@@ -15,7 +15,8 @@ This coding scheme starts with transforming input data with Modified Discrete Co
 3. HUFFMAN coding : This is a type of entropy coding scheme for lossless data compression. It has following parts:
 
 
-                  i)  Sorting Algorithm (Insertion Sort) : Sorting data to calculate probability of each data representation.
+                  i)  Sorting Algorithm (Insertion Sort) : Sorting data to calculate probability of each data 
+                      representation.
                   
                   
                   ii) Generating Huffman tree using probabilities.
