@@ -4,7 +4,7 @@ Length of the data entered should be a power of 2.
 This application explores the data compression ability of Modified Discrete Cosine Transform (MDCT).
 Data is first trnasformed to a frequency domain using MDCT. 
 After that the coefficients obtained are quantized.
-After quantization, we can apply psychoacoustic model to neglect frequencies which are not in human readable range.
+After quantization, we can apply psychoacoustic model to neglect frequencies which are not in human audible range.
 Entropy coding is then performed on quantized data to obtain final compressed data. (Huffman code is used here).     
 */
 
